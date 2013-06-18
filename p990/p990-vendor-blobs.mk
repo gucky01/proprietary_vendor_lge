@@ -58,7 +58,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p990/proprietary/lib/libnvomxadaptor.so:system/lib/libnvomxadaptor.so \
     vendor/lge/p990/proprietary/lib/libnvrm.so:system/lib/libnvrm.so \
     vendor/lge/p990/proprietary/lib/hw/hwcomposer.tegra.so:system/lib/hw/hwcomposer.tegra.so \
-    vendor/lge/p990/proprietary/lib/hw/audio.a2dp.default.so:system/lib/hw/audio.a2dp.default.so \
     vendor/lge/p990/proprietary/lib/hw/audio.primary.star.so:system/lib/hw/audio.primary.star.so \
     vendor/lge/p990/proprietary/lib/hw/gps.tegra.so:system/lib/hw/gps.tegra.so \
     vendor/lge/p990/proprietary/lib/hw/sensors.tegra.so:system/lib/hw/sensors.tegra.so \
